@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(../images/JediTemple2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+.jumbotron {
+    margin: 7%;
+    
+}
+h3 {
+    color: green
+}
